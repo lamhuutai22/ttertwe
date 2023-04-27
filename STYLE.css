@@ -1,6 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Sigmar&display=swap');
 .body{margin-top:20px;
 color: #01050e;
     background: #000000;
+}
+*{
+    font-family: 'Sigmar', cursive;
 }
 .account-settings .user-profile {
     margin: 0 0 1rem 0;
